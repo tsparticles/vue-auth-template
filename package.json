@@ -11,7 +11,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "core-js": "^3.8.0",
+    "core-js": "^3.8.1",
     "particles.vue": "^2.1.11",
     "vue": "^2.6.12",
     "vue-router": "^3.4.9"
