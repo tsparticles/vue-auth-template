@@ -23,7 +23,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^8.0.0",
     "eslint-plugin-vue": "^7.1.0",
-    "gh-pages": "^5.0.0",
+    "gh-pages": "^6.0.0",
     "vue-template-compiler": "^2.6.12"
   },
   "eslintConfig": {
